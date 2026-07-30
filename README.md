@@ -6,7 +6,7 @@ Power BI | Excel | Python <br>
 To analyze 180 days of GA4 event-level data to answer following questions: \
 Which customer acquisition cohorts generate the highest long-term value? \
 Which marketing channels acquire customers who actually return? \
-Which seasonal campaigns create lasting customers rather than one-time buyers? \
+Which seasonal campaigns create lasting customers rather than one-time buyers? 
 
 ### Dashboard:
 Image
@@ -14,22 +14,22 @@ Image
 ### Business Problem:
 #### Company: TrendHive Fashion (fictional)
 TrendHive is a Series A funded online fashion and apparel marketplace operating in India. \
-Their growth team believes acquisition is working, but customers are not returning frequently enough. \
+Their growth team believes acquisition is working, but customers are not returning frequently enough. 
 
 ### Executive Summary (Top metrics):
 Total acquired users – 3.912k   |   Best channel return rate (Push) – 12.18% \
 Avg. revenue LTV – $9.79k   |   Avg. order per user – 3.17 \
 Avg. D90 retention – 17.05%   |   Avg. D30 retention – 10.66% \
 Product view rate% - 75.62%   |   Cart addition rate% - 16.09% \
-Cart to purchase rate% - 37.64% \
+Cart to purchase rate% - 37.64% 
 
 ### Executive Summary (Dashboard walkthrough):
 Tab 1 highlights there is evidence for strong Product-Market fit with overall D30 bounded retention at 10.66% (industry standards). \
 Push and meta retargeting are showing better retention rates, suggesting acquisition of quality customers over google shopping \
 where repeat purchase rate is higher but revenue is low. \
-The customers from the these campaigns can be seasonal or discount buyers who has longer purchase cycle because of a lower repeat rate. \
+The customers from the these campaigns can be seasonal or discount buyers who has longer purchase cycle because of a lower repeat rate. 
 
-Tab 2 highlights that highest LTV is coming from “Always on search” campaign for D30 and “Instagram influencers” for D90. \
+Tab 2 highlights that highest LTV is coming from “Always on search” campaign for D30 and “Instagram influencers” for D90. 
 
 Tab 3 highlights in the funnel steps, worst leakage is happening in product view to add to cart step (only 21% added items in the cart). \
 As for the engagement depth, on average less than 1 product is viewed in a session. \
