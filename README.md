@@ -17,10 +17,10 @@ TrendHive is a Series A funded online fashion and apparel marketplace operating 
 Their growth team believes acquisition is working, but customers are not returning frequently enough. 
 
 ### Executive Summary (Top metrics):
-Total acquired users – 3.912k   |   Best channel return rate (Push) – 12.18% \
-Avg. revenue LTV – $9.79k   |   Avg. order per user – 3.17 \
-Avg. D90 retention – 17.05%   |   Avg. D30 retention – 10.66% \
-Product view rate% - 75.62%   |   Cart addition rate% - 16.09% \
+Total acquired users – 3.912k          |         Best channel return rate (Push) – 12.18% \
+Avg. revenue LTV – $9.79k              |         Avg. order per user – 3.17 \
+Avg. D90 retention – 17.05%            |         Avg. D30 retention – 10.66% \
+Product view rate% - 75.62%            |         Cart addition rate% - 16.09% \
 Cart to purchase rate% - 37.64% 
 
 ### Executive Summary (Dashboard walkthrough):
@@ -38,7 +38,7 @@ In the RFM segment, around 1.18k are in the Can’t Lose category, meaning they 
 but has stopped returning (low RFM scores). 2.48k customers are already in the Lost category. 
 
 ### Recommendations: 
-Execute 4 strategies chronologically according to their urgency and impact on the situation (detailed explanation in full report): \
+Execute 4 strategies chronologically according to their urgency and impact on the situation (detailed explanation in full report): 
 1. Churn Strategy for retention
 2. Customer Segmentation for acquiring right target audience
 3. Improving bounce rates to counter high landing page bounce rates
