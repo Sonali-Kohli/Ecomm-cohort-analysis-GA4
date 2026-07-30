@@ -17,9 +17,11 @@ TrendHive is a Series A funded online fashion and apparel marketplace operating 
 Their growth team believes acquisition is working, but customers are not returning frequently enough. 
 
 ### Executive Summary (Top metrics):
-Total acquired users | 3.912k |    Best channel return rate (Push) | 12.18% | Avg. revenue LTV | $9.79k         
-Avg. order per user | 3.17 | Avg. D90 retention | 17.05%    |    Avg. D30 retention | 10.66% 
-Product view rate% | 75.62%    |    Cart addition rate% | 16.09%  | Cart to purchase rate% | 37.64% 
+| Header 1 | Header 2 | Header 3 |
+| --- | --- | --- |
+| Total acquired users, 3.912k |    Best channel return rate (Push), 12.18% | Avg. revenue LTV, $9.79k |        
+| Avg. order per user, 3.17 | Avg. D90 retention, 17.05%   |    Avg. D30 retention, 10.66% |
+| Product view rate%, 75.62%    |    Cart addition rate%, 16.09%  | Cart to purchase rate%, 37.64% |
 
 ### Executive Summary (Dashboard walkthrough):
 Tab 1 highlights there is evidence for strong Product-Market fit with overall D30 bounded retention at 10.66% (industry standards). \
