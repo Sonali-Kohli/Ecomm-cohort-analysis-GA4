@@ -4,12 +4,9 @@ Power BI | Excel | Python <br>
 
 ### Objective:
 To analyze 180 days of GA4 event-level data to answer following questions: \
-Which customer acquisition cohorts generate the highest long-term value? \
-Which marketing channels acquire customers who actually return? \
-Which seasonal campaigns create lasting customers rather than one-time buyers? 
-
-### Dashboard:
-Image
+1. Which customer acquisition cohorts generate the highest long-term value? \
+2. Which marketing channels acquire customers who actually return? \
+3. Which seasonal campaigns create lasting customers rather than one-time buyers? 
 
 ### Business Problem:
 #### Company: TrendHive Fashion (fictional)
@@ -18,7 +15,7 @@ Their growth team believes acquisition is working, but customers are not returni
 
 ### Executive Summary (Top metrics):
 | Acquisition | Retention | Engagement |
-| --- | --- | --- |
+| :--- | :--- | :--- |
 | Total acquired users, 3.912k | Avg. order per user, 3.17 | Product view rate%, 75.62%  |
 | Best channel return rate (Push), 12.18% | Avg. D90 retention, 17.05% | Cart addition rate%, 16.09% |
 | Avg. revenue LTV, $9.79k | Avg. D30 retention, 10.66% |  Cart to purchase rate%, 37.64% |     
@@ -35,11 +32,11 @@ Tab 3 highlights in the funnel steps, worst leakage is happening in product view
 As for the engagement depth, on average less than 1 product is viewed in a session. \
 This hints towards large homepage bounces. \
 In the RFM segment, around 1.18k are in the Can’t Lose category, meaning they used to buy regularly (in the D90, D180 LTV milestone) \
-but has stopped returning (low RFM scores). 2.48k customers are already in the Lost category. 
+but has stopped purchasing (low RFM scores). 2.48k customers are already in the Lost category. 
 
 ### Recommendations: 
-Execute 4 strategies chronologically according to their urgency and impact on the situation (detailed explanation in full report): 
+Execute given 4 strategies / studies chronologically according to their urgency and impact on the situation (detailed explanation in full report): 
 1. Churn Strategy for retention
 2. Customer Segmentation for acquiring right target audience
-3. Improving bounce rates to counter high landing page bounce rates
+3. Improving campaign messaging to counter high landing page bounce rates
 4. Product page analysis to improve UI/UX issues
