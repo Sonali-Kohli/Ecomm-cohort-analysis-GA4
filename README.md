@@ -3,9 +3,9 @@
 Power BI | Excel | Python <br>
 
 ### Objective:
-To analyze 180 days of GA4 event-level data to answer following questions: \
-1. Which customer acquisition cohorts generate the highest long-term value? \
-2. Which marketing channels acquire customers who actually return? \
+To analyze 180 days of GA4 event-level data to answer following questions: 
+1. Which customer acquisition cohorts generate the highest long-term value? 
+2. Which marketing channels acquire customers who actually return? 
 3. Which seasonal campaigns create lasting customers rather than one-time buyers? 
 
 ### Business Problem:
